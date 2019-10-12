@@ -89,7 +89,7 @@ p {
 /* Paso 6 Bienvenida */
 
 #welcome {
- background: url('./imagenes/fontana.jpg') no-repeat center center/cover;
+ background: url('../imagenes/fontana.jpg') no-repeat center center/cover;
  height: 600px;
 }
 
@@ -214,7 +214,7 @@ p {
 /* Testimonos */
 #testimonials {
  height: 600px;
- background: url('./imagenes/hombre.jpg') no-repeat center center/cover;
+ background: url('../imagenes/hombre.jpg') no-repeat center center/cover;
  padding-top: 100px;
 }
 
@@ -243,7 +243,7 @@ p {
 /* Forma de Contacto */
 #contact-form {
 height: 600px;
-background: url('./imagenes/fridas.jpg') no-repeat center center/cover;
+background: url('../imagenes/fridas.jpg') no-repeat center center/cover;
 padding-top: 100px;
 }
 #contact-form .form-group {
@@ -275,6 +275,6 @@ padding-top: 100px;
 }
 #videos {
  height: auto;
- background: url('./Imagenes/panchos.jpg') no-repeat center center/cover;
+ background: url('../Imagenes/panchos.jpg') no-repeat center center/cover;
  padding-top: 100px;
 }
